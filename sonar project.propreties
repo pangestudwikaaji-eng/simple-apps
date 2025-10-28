@@ -1,10 +1,10 @@
 # must be unique in a given SonarQube instance
-sonar.projectKey=Simple-Apps
+sonar.projectKey=simple-saja
 
 # --- optional properties ---
 
 # defaults to project key
-sonar.projectName=Simple-Apps
+sonar.projectName=simple saja
 # defaults to 'not provided'
 sonar.projectVersion=1.0
  
