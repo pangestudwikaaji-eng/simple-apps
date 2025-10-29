@@ -2,7 +2,7 @@ name: simple
 
 services:
   app:
-    image: dw1k4/simple-dwi:1.0
+    image: dw1k4ajip/simple-dwi:1.0
     build: ./app
     ports:
       - "5000:3000"
